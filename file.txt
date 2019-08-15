@@ -4,3 +4,6 @@ second new line
 
 git test
 Git tracks changes of file.
+
+
+branch newline test
