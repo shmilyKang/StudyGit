@@ -3,4 +3,4 @@ new line
 second new line
 
 git test
-Git tracks changes.
+Git tracks changes of file.
