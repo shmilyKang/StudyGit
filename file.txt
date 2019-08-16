@@ -6,4 +6,4 @@ git test
 Git tracks changes of file.
 
 
-branch newline test
+123
