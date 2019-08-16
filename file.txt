@@ -9,4 +9,5 @@ Git tracks changes of file.
 Creating a new branch is quick and simple. --changed
 feature
 1232
-my change
+my change with out conflict
+otherone person change
